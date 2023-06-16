@@ -42,7 +42,7 @@
                 <select name="gender" required>
                     <option value="gender">Gender</option>
                     <option value="male">Male</option>
-                    <option value="femail">Female</option>
+                    <option value="female">Female</option>
                     <option value="other">Other</option>
                 </select><br><br>
 
