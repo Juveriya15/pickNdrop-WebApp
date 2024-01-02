@@ -71,8 +71,6 @@ $dob=$_SESSION["dob"];
                 <label><b>Enter the Rent of your ride:</b></label><br>
                 <input type="number" name="rent" id="rent" placeholder="Rs.50"><br><br>
 
-                <label><b>Uplod your License:</b></label><br>
-                <input type="file" name="lic" id="lic" required><br><br>
 
                 <input id="btn2" type="submit" name="submit" value=" Publish Ride " onclick="Click()" /><br>
                 

@@ -67,6 +67,18 @@ session_start();
 
 
                 </ul>
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a href="home.html">
+                            <button type="button" class="btn btn-danger">Logout</button>
+                        </a>
+
+
+                    </li>
+
+
+                </ul>
+
         </div>
     </nav>
 
@@ -76,7 +88,7 @@ session_start();
     </div>
 
     <!-- PROPERTIES CARD  -->
-   
+
     <div class=" properties-container">
         <div class=" property1" id="left">
             <div class="card text-center border shadow" style="width: 18rem;">
@@ -118,10 +130,10 @@ session_start();
         <div class="terms-condition">
             <a href="http://">TERMS & CONDITIONS</a>
         </div>
-         <div class="copyright">
+        <div class="copyright">
             <img class="logo" src="IMG/placeholder.png" alt="" height="30px" width="35px">
-            @pickNdrop,2023 © 
-         </div>
+            @pickNdrop,2023 ©
+        </div>
     </div>
 
 </body>
